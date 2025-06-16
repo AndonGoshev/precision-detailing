@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Детайлинг на кожен салон",
+    "description": "Цялостно почистване и подхранване на кожен салон с внимание към всеки детайл.",
+    "price": 100,
+    "link": "/rezervaciq",
+    "image": "/assets/images/usluga-kojen-salon.jpg"
+  },
+  {
+    "title": "Детайлинг на климатична система",
+    "description": "Дълбоко почистване и дезинфекция на климатичната система за свеж интериор.",
+    "price": 70,
+    "link": "/rezervaciq",
+    "image": "/assets/images/usluga-klimatik.jpg"
+  },
+  {
+    "title": "Полиране и Пастиране на фарове",
+    "description": "Полиране на фарове за кристална яснота и блестящ външен вид.",
+    "price": 90,
+    "link": "/rezervaciq",
+    "image": "/assets/images/usluga-vunshno1.jpg"
+  },
+  {
+    "title": "Керамични Покрития с полимерна защита",
+    "description": "Защитете боята на автомобила си с дълготрайно полимерно покритие.",
+    "price": 100,
+    "link": "/rezervaciq",
+    "image": "/assets/images/usluga-vunshno2.jpg"
+  },
+  {
+    "title": "Полиране и Пастиране",
+    "description": "Премахване на леки драскотини за възстановяване на блясъка на автомобила.",
+    "price": 190,
+    "link": "/rezervaciq",
+    "image": "/assets/images/usluga-polirane.jpg"
+  },
+  {
+    "title": "Дълбоко Пастиране",
+    "description": "Дълбоко пастиране за пълно възстановяване на външния вид на автомобила.",
+    "price": 350,
+    "link": "/rezervaciq",
+    "image": "/assets/images/usluga-pastirane.jpg"
+  },
+  {
+    "title": "Керамични Покрития с твърда вакса",
+    "description": "Почистване с висококачествена твърда вакса за защита на боята.",
+    "price": 70,
+    "link": "/rezervaciq",
+    "image": "/assets/images/usluga-vunshno3.jpg"
+  }
+]
