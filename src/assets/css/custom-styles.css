@@ -1,4 +1,4 @@
-@import url('/precision-detailng/assets/css/home.css');
+@import url('/precision-detailing/assets/css/home.css');
 
 body {
   position: relative;
@@ -14,7 +14,7 @@ body::before {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background: url('/precision-detailng/assets/images/background2.jpg') no-repeat center center / cover;
+  background: url('/precision-detailing/assets/images/background2.jpg') no-repeat center center / cover;
   opacity: 0.3;
   z-index: -20;
   pointer-events: none;
